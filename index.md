@@ -174,7 +174,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong>
-  Participants must have access to a computer with a Mac, Linux, or Windows operating system. See <a href="{{ relative_root_path }}{% link setup.md %}">setup instructions</a>.
+  Participants must have access to a computer with a Mac, Linux, or Windows operating system. See <a href="setup.html">setup instructions</a>.
 </p>
 
 {% comment %}
