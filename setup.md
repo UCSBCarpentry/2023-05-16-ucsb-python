@@ -4,11 +4,8 @@ title: Setup
 
 
 > ## Using Jupyter Hub
-> For this workshop, we will be using a web-based Python environment, Jupyter Hub, that LSIT has graciously setup for us with the software and libraries preinstalled. The Jupyter Hub URL will be posted here soon before the workshop begins. If you prefer to use Python on your own computer, you may use the Python installation instructions below, but this is not required.
+> For this workshop, we will use a web-based Python environment, Jupyter Hub, that LSIT has graciously setup for us with the software and libraries preinstalled. Please use your UCSB NETID to sign into the Jupyter Hub at: [https://carpentryworkshop.lsit.ucsb.edu/](https://carpentryworkshop.lsit.ucsb.edu/). If you prefer to use Python on your own computer, you may use the Python installation instructions below, but this is not required.
 {: .prereq}
-
-<!-- Please use your UCSB NETID to sign into the Jupyter Hub at: [https://carpentryworkshop.lsit.ucsb.edu/](https://carpentryworkshop.lsit.ucsb.edu/).  -->
-
 
 > ## Data
 > Data for this lesson is from the
