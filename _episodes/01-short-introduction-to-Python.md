@@ -1,6 +1,5 @@
 ---
 title: Short Introduction to Programming in Python
-start: true
 teaching: 30
 exercises: 5
 questions:
